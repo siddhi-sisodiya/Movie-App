@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+
+/* Nabar */
+ .image img{
+    height:20px;
+     padding-left:4px;
+ }
+ .image a{
+    display:flex;
+     align-items: center;
+   
+ }
+
+
+
+ /* MovieList  */
+
+  .dropdown{
+    background-color:white;
+    border:2px solid black;
+    color: black;
+    padding: 2px 0px 2px 8px;
+    border-radius: 5px;
+ }
+
+ .listmovie li:hover{
+    cursor: pointer;
+   color: #de6000b0;
+   
+ }
+
+ /* moviecard */
+
+ .moviefont{
+  font-style: italic;
+ }
+ .imagecard{
+   box-shadow: 3px  2px 3px 0px rgba(0,0,0,0.4);
+  transition: all 0.2s ease-in-out;
+ }
+ .moviedetail{
+   background-image: linear-gradient(rgba(0,0,0,0) rgba(0,0,0,1));
+ }
+ .imagecard:hover{
+ transform: scale(1.08);
+ }
+
+ .imagecard:hover .moviedetail{
+   opacity:10;
+
+ }
+
+
+ 
