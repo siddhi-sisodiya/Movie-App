@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav>
         <div className='h-20 w-full border-gray-600 border-b flex justify-between items-center px-4 sm:px-6 md:px-10'>
             <div>
-                <h1 className='text-[#f3e639] text-lg sm:text-xl md:text-2xl font-semibold tracking-wide'>MovieManiac</h1>
+                <h1 className='text-[#f3e639] text-lg sm:text-xl md:text-2xl font-semibold tracking-wide'>MovieMania</h1>
             </div>
 
     <div className='hidden md:flex image gap-5 lg:gap-8 [&>a]:cursor-pointer [&>a]:transition [&>a]:hover:scale-110 [&>a]:active:scale-90'>
