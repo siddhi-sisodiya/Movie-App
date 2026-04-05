@@ -1,4 +1,4 @@
-# MovieManiac
+# MovieMania
 
 MovieManiac is a web application built using React JS that allows users to browse popular movies. 
 The application provides features such as filtering movies based on ratings and sorting them by different parameters.
