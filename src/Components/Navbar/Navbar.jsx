@@ -11,7 +11,7 @@ const Navbar = () => {
                 <h1 className='text-[#f3e639] text-lg sm:text-xl md:text-2xl font-semibold tracking-wide'>MovieMania</h1>
             </div>
 
-    <div className='hidden md:flex image gap-5 lg:gap-8 [&>a]:cursor-pointer [&>a]:transition [&>a]:hover:scale-110 [&>a]:active:scale-90'>
+    <div className='image hidden md:flex  gap-5 lg:gap-8 [&>a]:cursor-pointer [&>a]:transition [&>a]:hover:scale-110 [&>a]:active:scale-90'>
      
                <a href="#">
                 Popular <img src="/Images/fire.png" alt="fire-image"/>
